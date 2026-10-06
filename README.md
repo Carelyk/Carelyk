@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="imgflip.com/gif/b2uox3"  />
+  <img data-importer="image" height="200" src="https://i.imgflip.com/b2uox3.gif" alt="The Room of Requirement"  />
 </div>
 
 ###
@@ -78,8 +78,8 @@ Here are some ideas to get you started:
 ###
 
 <div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/carel.yk">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=carel.yk&count=5" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31anv6csodko25e2k7faplry2txe">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31anv6csodko25e2k7faplry2txe&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
