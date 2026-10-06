@@ -15,16 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 data-importer="text" align="left">The Room of Requirement</h1>
+<h1 data-importer="text" align="center">The Room of Requirement</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=carelyk.carelyk&"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="imgflip.com/gif/b2uox3"  />
 </div>
 
 ###
@@ -37,7 +33,9 @@ Here are some ideas to get you started:
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/carelyk/carelyk/snake-output/snake.svg" alt="Snake animation" />
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=carelyk.carelyk&"  />
+</div>
 
 ###
 
@@ -62,6 +60,10 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/carelyk/carelyk/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
