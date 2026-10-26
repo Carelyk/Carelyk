@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://media.giphy.com/media/26vUBWsG8A5lsB7a8/giphy.gif" alt="Hogwarts Castle" />
+  <img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1dzNqdnBlc2V3ZnV2M3Boc2Z3M3Boc2Z3M3Boc2Z3M3Boc2Z3JmFwPTE5X2dpZl9pZCZjdD1n/12jifp88h645u0/giphy.gif" alt="Harry Potter Magic" />
 </div>
 
 <br/><br/>
@@ -24,9 +24,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://fontmeme.com/permalink/261027/parseltongue-font.png" alt="Parseltongue" border="0">
-</p>
+</div>
 <br/>
 
 <p align="center"><strong>🌐 Web Systems & Frontend</strong></p>
@@ -57,9 +57,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://fontmeme.com/permalink/261027/realm-font.png" alt="Realm" border="0">
-</p>
+</div>
 <br/>
 <div align="center">
   <a href="https://linkedin.com/in/carel-karma" target="_blank">
@@ -73,9 +73,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://fontmeme.com/permalink/261027/spotify-font.png" alt="Recently Played" border="0">
-</p>
+</div>
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/31anv6csodko25e2k7faplry2txe" target="_blank">
