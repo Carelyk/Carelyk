@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://fontmeme.com/permalink/261027/harry-potter-font.png" alt="The Room of Requirement" border="0">
-</p>
-
-<br/>
+<h1 align="center">⚡ THE ROOM OF REQUIREMENT ⚡</h1>
 
 <div align="center">
-  <img width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1dzNqdnBlc2V3ZnV2M3Boc2Z3M3Boc2Z3M3Boc2Z3M3Boc2Z3JmFwPTE5X2dpZl9pZCZjdD1n/12jifp88h645u0/giphy.gif" alt="Harry Potter Magic" />
+  <img width="100%" src="https://i.imgflip.com/645bba.gif" alt="Harry Potter Magic" />
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=carelyk.carelyk&" alt="Profile Views" />
@@ -24,9 +20,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://fontmeme.com/permalink/261027/parseltongue-font.png" alt="Parseltongue" border="0">
-</div>
+<h3 align="center">📜 Parseltongue (Core Arsenal)</h3>
 <br/>
 
 <p align="center"><strong>🌐 Web Systems & Frontend</strong></p>
@@ -57,9 +51,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://fontmeme.com/permalink/261027/realm-font.png" alt="Realm" border="0">
-</div>
+<h3 align="center">🏛️ Realm (Socials)</h3>
 <br/>
 <div align="center">
   <a href="https://linkedin.com/in/carel-karma" target="_blank">
@@ -73,9 +65,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://fontmeme.com/permalink/261027/spotify-font.png" alt="Recently Played" border="0">
-</div>
+<h3 align="center">🎧 Recently Played</h3>
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/31anv6csodko25e2k7faplry2txe" target="_blank">
