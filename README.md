@@ -1,4 +1,6 @@
-<h1 align="center">⚡ The Room of Requirement ⚡</h1>
+<p align="center">
+  <img src="https://fontmeme.com/permalink/261027/harry-potter-font.png" alt="The Room of Requirement" border="0">
+</p>
 
 <br/>
 
@@ -14,7 +16,6 @@
 
 ---
 
-<h3 align="center">🔮 About Me</h3>
 <p align="center">
   <em>"Words are, in my not-so-humble opinion, our most inexhaustible source of magic."</em><br/><br/>
   <strong>Carel Alberto Karma</strong><br/>
@@ -23,7 +24,9 @@
 
 ---
 
-<h3 align="center">📜 Parseltongue (Core Arsenal)</h3>
+<p align="center">
+  <img src="https://fontmeme.com/permalink/261027/parseltongue-font.png" alt="Parseltongue" border="0">
+</p>
 <br/>
 
 <p align="center"><strong>🌐 Web Systems & Frontend</strong></p>
@@ -54,7 +57,9 @@
 
 ---
 
-<h3 align="center">🏛️ Realm (Socials)</h3>
+<p align="center">
+  <img src="https://fontmeme.com/permalink/261027/realm-font.png" alt="Realm" border="0">
+</p>
 <br/>
 <div align="center">
   <a href="https://linkedin.com/in/carel-karma" target="_blank">
@@ -68,7 +73,9 @@
 
 ---
 
-<h3 align="center">🎧 Recently Played</h3>
+<p align="center">
+  <img src="https://fontmeme.com/permalink/261027/spotify-font.png" alt="Recently Played" border="0">
+</p>
 <br/>
 <div align="center">
   <a href="https://open.spotify.com/user/31anv6csodko25e2k7faplry2txe" target="_blank">
