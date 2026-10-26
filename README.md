@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/carelkarma" target="_blank">
+  <a href="https://instagram.com/carel.yk" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
   </a>
 </div>
