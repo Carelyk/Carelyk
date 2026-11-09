@@ -14,7 +14,12 @@
   <rect width="1200" height="360" rx="26" fill="url(#night)"/><rect width="1200" height="360" rx="26" fill="url(#stars)"/>
   <path d="M0 298Q160 240 315 290T630 275T930 286T1200 260V360H0Z" fill="#080812" opacity=".92"/>
   <circle cx="1015" cy="85" r="115" fill="url(#moonGlow)"/><circle cx="1015" cy="85" r="44" fill="#fff4b0" opacity=".9"/><circle cx="998" cy="73" r="8" fill="#d6c675" opacity=".35"/><circle cx="1031" cy="99" r="11" fill="#d6c675" opacity=".28"/>
-  <g fill="#0b0917" stroke="#44355f" stroke-width="2"><path d="M913 291V185h28v-42h27v42h35v-70h30v70h35v-35h27v35h25v106Z"/><path d="M930 143l25-28 25 28M997 115l21-31 21 31M1071 150l17-27 17 27"/></g>
+  <g fill="#0b0917" stroke="#44355f" stroke-width="2" stroke-linejoin="round">
+    <path d="M913 291V185H940V153H970V185H1002V122H1034V185H1072V158H1100V185H1120V291Z"/>
+    <path d="M932 153L955 118L978 153Z"/>
+    <path d="M994 122L1018 87L1042 122Z"/>
+    <path d="M1064 158L1086 128L1108 158Z"/>
+  </g>
   <g fill="#d4af37" opacity=".78"><rect x="929" y="211" width="7" height="12" rx="3"/><rect x="958" y="199" width="7" height="12" rx="3"/><rect x="1014" y="213" width="7" height="12" rx="3"/><rect x="1081" y="207" width="7" height="12" rx="3"/></g>
   <g class="wand-light" filter="url(#softGlow)"><path d="M92 281Q203 172 348 98" fill="none" stroke="#7f5af0" stroke-width="3" stroke-linecap="round" opacity=".55"/><circle cx="348" cy="98" r="5" fill="#fff4b0"/></g>
   <path d="M66 310l148-93" stroke="url(#gold)" stroke-width="9" stroke-linecap="round"/><path d="M66 310l43-27" stroke="#5c351f" stroke-width="13" stroke-linecap="round"/>
