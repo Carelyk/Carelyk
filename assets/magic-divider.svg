@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="48" viewBox="0 0 1200 48" role="img" aria-label="Magical divider">
+  <defs>
+    <linearGradient id="line"><stop stop-color="#7f5af0" stop-opacity="0"/><stop offset=".28" stop-color="#7f5af0"/><stop offset=".5" stop-color="#d4af37"/><stop offset=".72" stop-color="#7f5af0"/><stop offset="1" stop-color="#7f5af0" stop-opacity="0"/></linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.star{animation:pulse 2.4s ease-in-out infinite alternate;transform-origin:center}@keyframes pulse{from{opacity:.5;transform:scale(.75) rotate(0)}to{opacity:1;transform:scale(1.1) rotate(45deg)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  </defs>
+  <path d="M70 24H1130" stroke="url(#line)" stroke-width="2"/><path class="star" d="M600 5l5 14 14 5-14 5-5 14-5-14-14-5 14-5Z" fill="#d4af37" filter="url(#glow)"/><circle cx="568" cy="24" r="3" fill="#7f5af0"/><circle cx="632" cy="24" r="3" fill="#7f5af0"/>
+</svg>

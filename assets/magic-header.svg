@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Carel Alberto Karma</title>
+  <desc id="desc">A magical night banner for a full-stack engineer and automation builder</desc>
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090816"/><stop offset=".52" stop-color="#17142d"/><stop offset="1" stop-color="#291742"/></linearGradient>
+    <radialGradient id="moonGlow"><stop stop-color="#fff7c2" stop-opacity=".95"/><stop offset=".35" stop-color="#d4af37" stop-opacity=".38"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0a8"/><stop offset=".45" stop-color="#d4af37"/><stop offset="1" stop-color="#8c6720"/></linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="stars" width="96" height="72" patternUnits="userSpaceOnUse"><circle cx="12" cy="18" r="1" fill="#fff8d8" opacity=".65"/><circle cx="67" cy="11" r="1.3" fill="#bda7ff" opacity=".7"/><circle cx="42" cy="53" r=".8" fill="#fff" opacity=".55"/><circle cx="88" cy="62" r=".7" fill="#d4af37" opacity=".8"/></pattern>
+    <style>
+      .spark{animation:twinkle 2.8s ease-in-out infinite alternate;transform-box:fill-box;transform-origin:center}.spark:nth-of-type(2n){animation-delay:.8s}.spark:nth-of-type(3n){animation-delay:1.6s}.wand-light{animation:cast 4s ease-in-out infinite}@keyframes twinkle{from{opacity:.25;transform:scale(.7) rotate(0)}to{opacity:1;transform:scale(1.25) rotate(45deg)}}@keyframes cast{0%,100%{opacity:.45}50%{opacity:1}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#night)"/><rect width="1200" height="360" rx="26" fill="url(#stars)"/>
+  <path d="M0 298Q160 240 315 290T630 275T930 286T1200 260V360H0Z" fill="#080812" opacity=".92"/>
+  <circle cx="1015" cy="85" r="115" fill="url(#moonGlow)"/><circle cx="1015" cy="85" r="44" fill="#fff4b0" opacity=".9"/><circle cx="998" cy="73" r="8" fill="#d6c675" opacity=".35"/><circle cx="1031" cy="99" r="11" fill="#d6c675" opacity=".28"/>
+  <g fill="#0b0917" stroke="#44355f" stroke-width="2"><path d="M913 291V185h28v-42h27v42h35v-70h30v70h35v-35h27v35h25v106Z"/><path d="M930 143l25-28 25 28M997 115l21-31 21 31M1071 150l17-27 17 27"/></g>
+  <g fill="#d4af37" opacity=".78"><rect x="929" y="211" width="7" height="12" rx="3"/><rect x="958" y="199" width="7" height="12" rx="3"/><rect x="1014" y="213" width="7" height="12" rx="3"/><rect x="1081" y="207" width="7" height="12" rx="3"/></g>
+  <g class="wand-light" filter="url(#softGlow)"><path d="M92 281Q203 172 348 98" fill="none" stroke="#7f5af0" stroke-width="3" stroke-linecap="round" opacity=".55"/><circle cx="348" cy="98" r="5" fill="#fff4b0"/></g>
+  <path d="M66 310l148-93" stroke="url(#gold)" stroke-width="9" stroke-linecap="round"/><path d="M66 310l43-27" stroke="#5c351f" stroke-width="13" stroke-linecap="round"/>
+  <g fill="#fff4b0" filter="url(#softGlow)"><path class="spark" d="M348 72l5 20 20 5-20 5-5 20-5-20-20-5 20-5Z"/><path class="spark" d="M267 115l3 11 11 3-11 3-3 11-3-11-11-3 11-3Z"/><path class="spark" d="M404 49l3 12 12 3-12 3-3 12-3-12-12-3 12-3Z"/></g>
+  <text x="600" y="137" text-anchor="middle" fill="url(#gold)" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700" letter-spacing="3">CAREL ALBERTO KARMA</text>
+  <path d="M355 159H845" stroke="url(#gold)" stroke-width="2" opacity=".75"/><circle cx="600" cy="159" r="5" fill="#fff0a8"/>
+  <text x="600" y="207" text-anchor="middle" fill="#e9e4f5" font-family="Verdana, Arial, sans-serif" font-size="22" letter-spacing="5">FULL-STACK ENGINEER</text>
+  <text x="600" y="244" text-anchor="middle" fill="#b9acd2" font-family="Verdana, Arial, sans-serif" font-size="16" letter-spacing="3">AUTOMATION · DATA · DIGITAL ALCHEMY</text>
+  <rect x="2" y="2" width="1196" height="356" rx="24" fill="none" stroke="url(#gold)" stroke-width="3" opacity=".75"/>
+</svg>

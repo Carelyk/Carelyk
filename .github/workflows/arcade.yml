@@ -1,30 +1,37 @@
-name: Generate arcade animation
+name: Generate enchanted contribution game
 
 on:
-  # Triggers disabled on 2026-10-23 to stop the output branch from
-  # receiving scheduled commits. Kept as workflow_dispatch so the
-  # animation can still be regenerated manually from the Actions tab.
+  # Kept manual to respect the profile's existing no-scheduled-commits setup.
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/arcade.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-game
+  cancel-in-progress: true
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 20
-
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Galaga contribution graphs
+        uses: abozanona/pacman-contribution-graph@d258e3fb01511c1ff4fe6418408ede37b2ad4935 # v5.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: galaga
+          hide_month_labels: "false"
 
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish graphs to the output branch
+        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd # v3.1.0
         with:
-          target_branch: pacman-output
+          target_branch: galaga-output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
